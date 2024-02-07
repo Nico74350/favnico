@@ -1,9 +1,9 @@
 ---
 layout: layouts/base.njk
 eleventyNavigation:
-  key: About Me
+  key: A propos
   order: 3
 ---
-# About Me
+# A propos
 
-I am a person that writes stuff.
+Nick
